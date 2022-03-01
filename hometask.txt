@@ -1,1 +1,16 @@
 В ветку demo мёрджили ветки boots, buttons и hat последовательно, а я сначала создал ветку boots_buttons, смёрджил в неё ветки boots и buttons, а потом смёрждил в ветку master ветку hat и boots_buttons.
+
+Коммитов было 11, вот их комментарии:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+added hometask file
+
+После этого коммита их станет 12 :)
