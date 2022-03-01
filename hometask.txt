@@ -1,0 +1,1 @@
+В ветку demo мёрджили ветки boots, buttons и hat последовательно, а я сначала создал ветку boots_buttons, смёрджил в неё ветки boots и buttons, а потом смёрждил в ветку master ветку hat и boots_buttons.
